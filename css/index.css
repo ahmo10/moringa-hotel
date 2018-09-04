@@ -1,0 +1,27 @@
+
+body{
+    max-width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  
+  }
+  .landingPage{
+    background-image: url("../img/backgrounds/landing.jpg");
+    background-size: cover;
+    height: 750px;
+  }
+  .landingImg img{
+    position: absolute;
+    top: 300px;
+    left: 40%;
+  }
+  .landingImg h1{
+    position: absolute;
+    top: 600px;
+    left: 40%;
+    color: white;
+  
+  }
+  h1 span{
+    font-size: 50px;
+  }
