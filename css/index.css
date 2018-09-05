@@ -147,12 +147,12 @@ body{
     background-repeat: no-repeat;
     position: relative;
     top: 100px;
+    color: black;
   
   }
 
 #mc_embed_signup{
     clear:left;
-    color: black;
     font-size: 30px;
     text-align: center;
     }
