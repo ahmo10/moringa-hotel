@@ -25,3 +25,37 @@ body{
   h1 span{
     font-size: 50px;
   }
+  .menu{
+    height: 250px;
+    }
+.happyHour{
+    font-size: 25px;
+    text-align: center;
+    }
+    #partyTime{
+      background-color:#F15A29;
+      font-size: 25px;
+    text-align: center;
+       }
+      .breakfast:hover{
+        opacity: 0.6;
+        color: black;
+      }
+      .breakfast p{
+        color: white;
+      }
+      .lunch:hover p{
+        color: black;
+      }
+      .lunch:hover{
+        opacity: 0.6;
+      
+      }
+      .dinner:hover p{
+        color: black;
+      }
+      .dinner:hover{
+        opacity: 0.6;
+      }
+      
+     
