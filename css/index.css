@@ -80,5 +80,45 @@ body{
     left: 200px;
     top: -200px;
   }
+  jumbotron1{
+    height: 800px;
+    position: relative;
+    top: -300px;
+    background-image: url("../img/backgrounds/foodsBg.jpg");
+    background-size: cover;
+  
+  }
+  .btn-primary {
+    background-color: #fff;
+    color:orange;
+    border:1px solid orange;
+  }
+  .contraption{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: white;
+  }
+  .contraption ul li{
+    font-size: 50px;
+    margin-right: 150px;
+  
+  }
+  ul li a{
+    color: red;
+  }
+  span img{
+    width: 400px;
+    margin-right: 100px;
+  }
+  #fastfood{
+    margin-left: 50px;
+    margin-bottom: 100px;
+  }
+  #fastfood p{
+    word-spacing:400px;
+    color: red;
+  }
       
      
